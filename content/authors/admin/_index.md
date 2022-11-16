@@ -31,12 +31,12 @@ organizations:
     url: https://www.niu.edu/
 education:
   courses:
-    - course: MSc in Software Engineerin
+    - course: MSc in Software Engineering
       institution: Shahid Beheshti University(SBU), Tehran, Iran
       year: 2015
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Software Engineering
+      institution: University of Mazandaran, Babolsar, Iran
+      year: 2012
 superuser: true
 last_name: Bighetti
 highlight_name: true
