@@ -25,7 +25,7 @@ social:
     link: https://github.com/hbarzamini
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/hamed-b-a0943280/
 organizations:
   - name: Northern Illinois University
     url: https://www.niu.edu/
