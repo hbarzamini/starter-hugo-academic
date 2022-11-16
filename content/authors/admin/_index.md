@@ -1,7 +1,7 @@
 ---
 title: Hamed Barzamini
 role: PhD student in Computer Science
-avatar_filename: 1665887303564.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include RE4AI, Deep Learning and Big Data Analytics.
 interests:
   - Requirements Engineering For Artificial Intelligence
