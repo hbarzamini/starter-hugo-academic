@@ -31,9 +31,9 @@ organizations:
     url: https://www.niu.edu/
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: MSc in Software Engineerin
+      institution: Shahid Beheshti University(SBU), Tehran, Iran
+      year: 2015
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
