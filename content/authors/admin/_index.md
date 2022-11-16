@@ -2,12 +2,11 @@
 title: Hamed Barzamini
 role: PhD student in Computer Science
 avatar_filename: 1665887303564.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include RE4AI, Deep Learning and Big Data Analytics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Requirements Engineering For Artificial Intelligence
+  - Deep Multimodal Explainability
+  - Big Data Analytics
 social:
   - icon: envelope
     icon_pack: fas
@@ -47,9 +46,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Ph.D. student in the Department of Computer Science at Northern Illinois University. My research focus is on the fields of Requirements Engineering for ML-based software components. Currently, I am working on specifying Non-Functional Requirements (NFR), such as re-usability, robustness, and safety, for Artificial Intelligence (AI)-enabled software systems, such as pedestrian detectors in the automotive domain. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
