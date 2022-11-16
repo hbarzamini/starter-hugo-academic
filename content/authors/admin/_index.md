@@ -27,8 +27,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northern Illinois University
+    url: https://www.niu.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -44,7 +44,7 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: akashani@niu.edu
 ---
 I am a Ph.D. student in the Department of Computer Science at Northern Illinois University. My research focus is on the fields of Requirements Engineering for ML-based software components. Currently, I am working on specifying Non-Functional Requirements (NFR), such as re-usability, robustness, and safety, for Artificial Intelligence (AI)-enabled software systems, such as pedestrian detectors in the automotive domain. 
 
